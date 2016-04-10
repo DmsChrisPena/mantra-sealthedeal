@@ -23,3 +23,5 @@ kadira:flow-router
 kadira:dochead
 fourseven:scss
 materialize:materialize
+accounts-base
+accounts-password
